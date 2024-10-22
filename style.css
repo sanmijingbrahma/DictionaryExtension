@@ -54,3 +54,11 @@ form{
     -o-border-radius: 10px;
     border: none;
 }
+
+#meaning{
+    text-align: center;
+    color: azure;
+    font-style: italic;
+    font-size: larger;
+    margin-top: 20px;
+}
