@@ -1,0 +1,15 @@
+{
+    "manifest_version":3,
+    "name":"Dictionary",
+    "version":"1.0.0",
+    "description":"Extenstion to find meaning of the word.",
+    "action":{
+        "default_popup": "popup.html",
+        "default_icon":{
+
+        }
+    },
+    "permission":[]
+
+
+}
